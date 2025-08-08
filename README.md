@@ -11,7 +11,7 @@ Current Cortex versions only allow acess to the Database Lock files needed to ex
 `C:\ProgramData\Cyvera\LocalSystem\Persistence\agent_settings.db`
 
 Every file on this folder is required to correctly read from the LevelDB. Those are as follows:
-*.ldb  CURRENT  LOCK  LOG  LOG.OLD  MANIFEST-*
+\*.ldb  CURRENT  LOCK  LOG  LOG.OLD  MANIFEST-\*
 
 The script expects the route of the folder containing the files as an argument:
 ```shell
