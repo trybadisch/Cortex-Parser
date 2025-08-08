@@ -1,4 +1,7 @@
+## Legacy project: current Cortex version is 8.9
+
 This is a post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions for further execution.
+
 ![Screenshot](screenshot.png)
 
 It supports the current Cortex version (8.3) and it is based on [Cortex-XDR-Config-Extractor](https://github.com/Laokoon-SecurITy/Cortex-XDR-Config-Extractor) from Laokoon SecurITy.
