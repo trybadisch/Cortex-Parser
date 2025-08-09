@@ -1,4 +1,4 @@
-## Legacy project: current Cortex version is 8.9
+## Archived repository: current Cortex version is 8.9
 
 This is a post-exploitation tool that gathers Cortex XDR configuration aiming to find potential exclusions for further execution.
 
